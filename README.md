@@ -1,4 +1,4 @@
-# MVVM To-Do List App with Flow and Architecture Components
+# MVVM To-Do List App with Flow and Architecture Components PRACTICE only. From Channel Coding in Flow
 
 Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E
 
